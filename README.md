@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Tarcísio Sousa, I'm a Back-end developer, and I've been working in tech since 2009. I'm from Brazil.
 
+I love Python and everything about technology.
+
+[![Linkedin: tarcisio-sousa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-sousa-58627a95/)](https://www.linkedin.com/in/tarcisio-sousa-58627a95/)
 <!--
 **tarcisio-sousa/tarcisio-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
