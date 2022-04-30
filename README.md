@@ -30,7 +30,7 @@ These are some of the technologies and tools that I work with:
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Tarcísio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcisio-sousa&hide=stars,contributions)](https://github.com/tarcisio-sousa)
+[![Tarcísio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcisio-sousa&hide=stars,contribs)](https://github.com/tarcisio-sousa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisio-sousa&layout=compact)](https://github.com/tarcisio-sousa)
 
 <!--
