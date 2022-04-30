@@ -28,6 +28,10 @@ These are some of the technologies and tools that I work with:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={tarcisio-sousa}
+https://github-readme-stats.vercel.app/api?username={tarcisio-sousa}
 <!--
 **tarcisio-sousa/tarcisio-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
