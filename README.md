@@ -35,6 +35,9 @@ These are some of the technologies and tools that I work with:
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcisio-sousa&show_icons=true&theme=transparent)
+
 <!--
 **tarcisio-sousa/tarcisio-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
