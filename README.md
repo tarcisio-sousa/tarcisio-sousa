@@ -1,12 +1,14 @@
 ### Hi there 👋
 I'm Tarcísio Sousa, I'm a Back-end developer, and I've been working in tech since 2009. I'm from Brazil.
 
-I love Python and everything about technology.
+Software Engineer in constant development, seeking to grow with the latest knowledge about technology.
 
 [![Linkedin: tarcisio-sousa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-sousa-58627a95/)](https://www.linkedin.com/in/tarcisio-sousa-58627a95/)
 
 ## ⚡ Technologies
 These are some of the technologies and tools that I work with:
+
+---
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
@@ -35,8 +37,14 @@ These are some of the technologies and tools that I work with:
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcisio-sousa&show_icons=true&theme=transparent)
+<div align="center">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=tarcisio-sousa&show_icons=true&theme=transparent" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisio-sousa&layout=compact" />
+</div>
+
+---
 
 <!--
 **tarcisio-sousa/tarcisio-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
