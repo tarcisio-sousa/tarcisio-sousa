@@ -57,8 +57,6 @@ These are some of the technologies and tools that I work with:
     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisio-sousa&layout=compact" />
 </div>
 
----
-
 <!--
 **tarcisio-sousa/tarcisio-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
